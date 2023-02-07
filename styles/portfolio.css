@@ -2,7 +2,7 @@
 :root{
     --branding-color: #01bdd6; 
     --secondary-color: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
-    --heading-font-family: 
+    --heading-font-family: 'Playfair Display', sans-serif;
     --default-font-family: 'Poppins', sans-serif;
 }
 body{
