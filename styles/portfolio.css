@@ -1,4 +1,7 @@
 
+:root{
+    --branding-color: #01bdd6; 
+}
 body{
     background: linear-gradient(109.6deg, rgb(163, 217, 207) 11.2%, rgb(4, 178, 217) 100.2%);
 
@@ -16,7 +19,7 @@ h1{
     font-size: 96px; 
 }
 .btn-branding{
-    background-color: coral;
+    background: var(--branding-color);
     font-size: 18px;
     line-height: 27px; 
     padding: 12px 20px; 
