@@ -20,6 +20,7 @@ h1{
 .hero{
     background: linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%);
     text-align: center;
+    padding: 160px 20px;
 }
 .hero h2 {
     font-weight: normal; 
