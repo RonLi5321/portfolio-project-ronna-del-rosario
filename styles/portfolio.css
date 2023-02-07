@@ -17,6 +17,7 @@ h1{
 }
 .hero h2 {
     font-weight: normal; 
+    font-size: 24px;
 }
 .hero p {
     font-size: 36px;
