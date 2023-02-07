@@ -21,4 +21,5 @@ h1{
 }
 .hero p {
     font-size: 36px;
+    margin: 0 auto; 
 }
