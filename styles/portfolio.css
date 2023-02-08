@@ -21,7 +21,7 @@ p {
     line-height: 30px; 
 }
 .boba-pic{
-    max-width: 200px;
+    max-width: 400px;
 }
 .btn-branding{
     background: var(--branding-color);
