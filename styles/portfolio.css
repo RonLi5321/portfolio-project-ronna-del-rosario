@@ -48,6 +48,9 @@ p {
     border-radius: 4px;
     margin: 0 auto; 
 }
-.project-description{
-    padding: 120px 60px; 
+@media (max-width: 900px){
+    .project-description{
+    padding: 120px
+     60px; 
+    }
 }
