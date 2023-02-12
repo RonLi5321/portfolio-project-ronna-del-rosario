@@ -24,6 +24,7 @@ nav li{
     display: inline;
     list-style: none;
     line-height: 42px;
+    text-decoration: none;
 }
 nav ul{
     margin: 0;
