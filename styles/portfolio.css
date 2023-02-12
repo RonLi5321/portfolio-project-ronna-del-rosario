@@ -19,6 +19,7 @@ h2{
 }
 nav li{
     display: inline;
+    list-style: none;
 }
 p {
     font-weight: normal;
