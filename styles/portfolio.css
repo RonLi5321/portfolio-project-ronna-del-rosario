@@ -75,6 +75,10 @@ p {
     margin-bottom: 100px;
     
 }
+.work-image{
+    display: flex;
+    align-items: evenly;
+}
 @media (max-width: 900px){
     h1{
         font-size: 44px;
