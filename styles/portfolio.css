@@ -48,9 +48,6 @@ p {
     border-radius: 4px;
     margin: 0 auto; 
 }
-.profile-pic{
-    font-size: 50px;
-}
 @media (max-width: 900px){
     .project-description{
     padding: 120px
