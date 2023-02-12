@@ -68,6 +68,9 @@ p {
     border-radius: 4px;
     margin: 0 auto; 
 }
+.logo{
+    max-width: 150px;
+}
 .profile-pic{
     border: 1px solid var(--branding-color);
     border-radius: 15px;
