@@ -20,6 +20,10 @@ p {
     font-size: 16px; 
     line-height: 30px; 
 }
+.about-section h1{
+    font-size: 64px;
+    line-height: 80px;
+}
 .btn-branding{
     background: var(--branding-color);
     font-size: 18px;
