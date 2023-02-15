@@ -113,6 +113,9 @@ p {
 .footer:hover{
     color: var(--branding-color);
 }
+.email-link{
+    text-align: center;
+}
 @media (max-width: 900px){
     h1{
         font-size: 44px;
