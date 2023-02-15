@@ -30,6 +30,9 @@ nav ul{
     margin: 0;
     padding: 0;
 }
+li{
+    text-decoration: none;
+}
 p {
     font-weight: normal;
     font-size: 16px; 
@@ -83,9 +86,6 @@ p {
 }
 .logo{
     max-width: 150px;
-}
-.nav{
-    padding: 20px 0 
 }
 .profile-pic{
     border: 1px solid var(--branding-color);
