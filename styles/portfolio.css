@@ -119,9 +119,10 @@ p {
     text-decoration: none;
     color: var(--branding-color);
 }
-.social-links{
+footer .social-links{
    text-decoration: none;
    color: var(--branding-color);
+   margin: 20px;
 }
 @media (max-width: 900px){
     h1{
