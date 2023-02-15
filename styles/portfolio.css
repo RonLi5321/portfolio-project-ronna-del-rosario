@@ -114,6 +114,7 @@ p {
     color: var(--branding-color);
 }
 .email-link{
+    display: block;
     text-align: center;
 }
 @media (max-width: 900px){
