@@ -116,6 +116,7 @@ p {
 .email-link{
     display: block;
     text-align: center;
+    text-decoration: none;
 }
 @media (max-width: 900px){
     h1{
