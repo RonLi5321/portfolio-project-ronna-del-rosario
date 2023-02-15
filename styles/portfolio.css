@@ -117,8 +117,13 @@ p {
     .about-section{
         text-align: center;
     }
+    .nav a{
+        font-size: 14px;
+        margin: 5px;
+    }
     .project-description{
     padding: 120px
      60px; 
     }
+
 }
