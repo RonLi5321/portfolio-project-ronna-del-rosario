@@ -23,7 +23,7 @@ nav{
 nav li{
     display: inline;
     list-style: none;
-    line-height: 42px;
+    margin-left: 10px;
 }
 nav ul{
     margin: 0;
