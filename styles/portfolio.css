@@ -3,7 +3,7 @@
     --branding-color: #01bdd6; 
     --secondary-color: linear-gradient(109.6deg, rgb(163, 217, 207) 11.2%, rgb(4, 178, 217) 100.2%);
     --heading-font-family:'Monofett', cursive ;
-    --default-font-family:'Poppins sans-serif';
+    --default-font-family:'Poppins', sans-serif;
 }
 body{
     background:linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); 
