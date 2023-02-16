@@ -131,6 +131,7 @@ footer .social-links a {
    padding: 10px 14px;
 }
 .contact-box{
+    padding: 5px;
     background: linear-gradient(68.4deg, rgb(248, 182, 204) 0.5%, rgb(192, 198, 230) 49%, rgb(225, 246, 240) 99.8%);
     text-align: center;
 }
