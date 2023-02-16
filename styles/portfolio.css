@@ -126,7 +126,8 @@ p {
     align-items: evenly;
 }
 .footer{
-    margin-top: 100px;
+    positon: fixed;
+    bottom:0;
     text-decoration: none;
     color: black;
     font-size: 24px;
