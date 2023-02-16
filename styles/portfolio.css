@@ -87,7 +87,7 @@ p {
     line-height: 27px; 
     padding: 12px 20px;
 }
-.btn-branding-outlin:hover{
+.btn-branding-outline:hover{
     color: pink;
     border: 1px solid pink;
     border-radius: 4px; 
