@@ -90,6 +90,7 @@ p {
 }
 .btn-branding-outline:hover{
    background: pink;
+   color: white;
     border-radius: 4px; 
     font-size: 18px;
     line-height: 27px; 
