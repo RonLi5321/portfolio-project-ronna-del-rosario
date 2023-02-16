@@ -130,7 +130,8 @@ p {
     color: black;
     font-size: 24px;
     text-align: center;
-    position: absolute;
+    position: relative;
+    
 }
 .footer:hover{
     color: var(--branding-color);
