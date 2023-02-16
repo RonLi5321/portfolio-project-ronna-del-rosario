@@ -87,6 +87,14 @@ p {
     line-height: 27px; 
     padding: 12px 20px;
 }
+.btn-branding-outlin:hover{
+    color: pink;
+    border: 1px solid pink;
+    border-radius: 4px; 
+    font-size: 18px;
+    line-height: 27px; 
+    padding: 12px 20px;
+}
 .hero{
     background: var(--secondary-color);
     text-align: center;
