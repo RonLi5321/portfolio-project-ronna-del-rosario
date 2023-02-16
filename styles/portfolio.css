@@ -131,7 +131,7 @@ footer .social-links a {
    padding: 10px 14px;
 }
 .contact-box{
-    background: var(--branding-color);
+    background: radial-gradient(circle at 0.2% 0.5%, rgb(252, 165, 241) 0%, rgb(181, 255, 255) 100.2%);
     text-align: center;
 }
 @media (max-width: 900px){
