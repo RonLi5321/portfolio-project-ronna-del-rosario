@@ -131,6 +131,7 @@ footer .social-links a {
    padding: 10px 14px;
 }
 .contact-box{
+    background: var(--branding-color);
     text-align: center;
 }
 @media (max-width: 900px){
