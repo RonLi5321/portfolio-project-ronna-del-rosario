@@ -160,7 +160,7 @@ footer:hover{
     color: var(--branding-color);
 }.work-image{
     display: flex;
-    align-items: evenly;
+    align-items:center;
 }
 footer .social-links a {
    text-decoration: none;
