@@ -137,6 +137,7 @@ footer:hover{
 }
 .logo{
     max-width: 150px;
+    margin-left: 0; 
 }
 .profile-pic{
     border: 1px solid var(--branding-color);
