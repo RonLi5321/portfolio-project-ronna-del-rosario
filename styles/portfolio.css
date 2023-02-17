@@ -138,6 +138,12 @@ footer:hover{
     margin-bottom: 100px;
     
 }
+.project-name{
+    text-align: center;
+}
+.coding-tools{
+    text-align: center;
+}
 .work-image{
     display: flex;
     align-items: evenly;
