@@ -73,6 +73,7 @@ footer:hover{
     margin: 30px;
 }
 .content-container{
+    color: var(--branding-color);
     padding: 160px 20px;
 }
 .content-container h1{
