@@ -8,7 +8,6 @@
 body{
     background:linear-gradient(to top, #e6e9f0 0%, #eef1f5 100%); 
     font-family: var(--default-font-family);
-    overflow: hidden;
 }
 h1{
     font-family: var(--heading-font-family);
