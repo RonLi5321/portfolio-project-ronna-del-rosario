@@ -63,6 +63,9 @@ footer{
 footer:hover{
     color: var(--branding-color);
 }
+.beauty-image{
+    text-align: center;
+}
 .content{
     margin: 30px;
 }
