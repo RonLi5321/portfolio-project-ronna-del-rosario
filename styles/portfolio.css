@@ -158,6 +158,9 @@ footer:hover{
     text-align: center;
     text-decoration: none;
     color: var(--branding-color);
+}.work-image{
+    display: flex;
+    align-items: evenly;
 }
 footer .social-links a {
    text-decoration: none;
@@ -165,10 +168,7 @@ footer .social-links a {
    margin: 0 20px;
    padding: 10px 14px;
 }
-.work-image{
-    display: flex;
-    align-items: evenly;
-}
+
 .contact-box{
     margin-top: 80px;
     padding: 10px;
