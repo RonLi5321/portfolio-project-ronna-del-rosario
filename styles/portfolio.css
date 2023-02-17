@@ -161,6 +161,7 @@ footer:hover{
 }.work-image{
     display: flex;
     align-items:center;
+    margin-left: 20px;
 }
 footer .social-links a {
    text-decoration: none;
