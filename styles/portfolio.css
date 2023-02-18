@@ -73,9 +73,6 @@ footer{
 .content-container{
     padding: 160px 20px;
 }
-.content-container-container{
-    color: var(--branding-color);
-}
 .content-container h1{
     font-size: 64px;
     line-height: 80px;
@@ -154,6 +151,9 @@ footer{
 .coding-tools{
     text-align: center;
     margin-right: 80px;
+}
+.social-links{
+    color: var(--branding-color);
 }
 .email-link{
     margin-top: 100px;
