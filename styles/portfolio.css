@@ -91,6 +91,7 @@ footer{
 }
 .btn-branding{
     background: var(--branding-color);
+    color: black;
     font-size: 18px;
     line-height: 27px; 
     padding: 12px 20px; 
