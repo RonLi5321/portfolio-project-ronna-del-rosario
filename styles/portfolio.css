@@ -219,6 +219,7 @@ footer .social-links a {
     .nav{
         font-size: 14px;
         text-align: center;
+        width: 50%;
     }
     .project-description{
     padding: 0;
