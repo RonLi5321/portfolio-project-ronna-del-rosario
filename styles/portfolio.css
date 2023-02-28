@@ -189,6 +189,9 @@ footer .social-links a {
     h3{
         font-size: 26px;
     }
+    body{
+        overflow-x: hidden;
+    }
     .content{
         text-align: center;
         padding: 0;
