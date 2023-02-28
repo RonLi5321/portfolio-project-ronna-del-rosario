@@ -191,6 +191,7 @@ footer .social-links a {
     }
     body{
         overflow-x: hidden;
+        width: 100%;
     }
     .content{
         text-align: center;
