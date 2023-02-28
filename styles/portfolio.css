@@ -209,6 +209,7 @@ footer .social-links a {
     }
     .content-container{
         padding: none;
+        text-align: center;
     }
     .hero {
         padding: 80px 20px;
