@@ -182,12 +182,15 @@ footer .social-links a {
 @media (max-width: 900px){
     h1{
         font-size: 44px;
+        text-align: center;
     }
     h2{
         font-size: 44px;
+        text-align: center;
     }
     h3{
         font-size: 26px;
+        text-align: center;
     }
     html,
     body {
@@ -198,6 +201,7 @@ footer .social-links a {
     position: absolute;
     top: 0;
     left: 0;
+    text-align: center;
 }
     .content{
         text-align: center;
