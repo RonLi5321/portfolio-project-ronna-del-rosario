@@ -213,9 +213,8 @@ footer .social-links a {
     .about-section{
         text-align: center;
     }
-    .nav a{
+    .nav{
         font-size: 14px;
-        margin: 5px;
         text-align: center;
     }
     .project-description{
