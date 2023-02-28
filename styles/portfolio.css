@@ -217,5 +217,9 @@ footer .social-links a {
     padding: 0;
      text-align: center;
     }
+    .work-image{
+        display:none;
+
+    }
 
 }
